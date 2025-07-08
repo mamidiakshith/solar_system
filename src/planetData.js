@@ -1,0 +1,68 @@
+const planetData = [
+  {
+    id: "Mercury",
+    size: 0.38,
+    color: "#a29bfe",
+    speed: 4.2,
+    xRadius: 5,
+    zRadius: 4.5,
+  },
+  {
+    id: "Venus",
+    size: 0.95,
+    color: "#ffeaa7",
+    speed: 3.2,
+    xRadius: 7,
+    zRadius: 6.5,
+  },
+  {
+    id: "Earth",
+    size: 1,
+    color: "#74b9ff",
+    speed: 2.8,
+    xRadius: 9,
+    zRadius: 8,
+  },
+  {
+    id: "Mars",
+    size: 0.53,
+    color: "#e17055",
+    speed: 2.3,
+    xRadius: 11,
+    zRadius: 10,
+  },
+  {
+    id: "Jupiter",
+    size: 1.5,
+    color: "#f6e58d",
+    speed: 1.8,
+    xRadius: 13,
+    zRadius: 12,
+  },
+  {
+    id: "Saturn",
+    size: 1.2,
+    color: "#f9ca24",
+    speed: 1.4,
+    xRadius: 15,
+    zRadius: 14,
+  },
+  {
+    id: "Uranus",
+    size: 1.0,
+    color: "#81ecec",
+    speed: 1.0,
+    xRadius: 17,
+    zRadius: 16,
+  },
+  {
+    id: "Neptune",
+    size: 0.95,
+    color: "#0984e3",
+    speed: 0.8,
+    xRadius: 19,
+    zRadius: 18,
+  },
+];
+
+export default planetData;
